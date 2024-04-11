@@ -1,26 +1,26 @@
-Total: 130
+Total: 108
 
 
 
-Q1: 5
+Q1: 4
 
 Q2: 
 
-Problem 1 : 10
+Problem 1 : 8
 
-Problem 2 : 10
+Problem 2 : 8
 
 	Comment: it would be nice to print the values
 
-Problem 3 : 10
+Problem 3 : 8
 
 	Comment: it would be nice to print the view values instead of label
 
-Problem 4 : 20
+Problem 4 : 16
 
-Problem 5 : 20
+Problem 5 : 16
 
-Problem 6 : 25 + 10 (extra credit) 
+Problem 6 : 20 + 8  (extra credit) 
 
 	comment: it would be nice to add an error message print if dimesnion is wrong
 
